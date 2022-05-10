@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  tkc-ip-unnumbered:
+  - apiVersion: v1
+    appVersion: v1.0
+    created: "2022-05-10T14:35:17.14244421+05:30"
+    description: A Helm chart for ip unNumbered
+    digest: 1a0567fb1d9955f29f8d7639637bff841c76aa906f73d246ee83e5c4a5ed32a2
+    name: tkc-ip-unnumbered
+    urls:
+    - https://vishalmanea10.github.io/a10-test-1/tkc-ip-unnumbered-v1.0.tgz
+    version: v1.0
+generated: "2022-05-10T14:35:17.140302477+05:30"
